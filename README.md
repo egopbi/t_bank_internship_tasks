@@ -2,17 +2,17 @@ This is my solutions of first step tasks from T-bank internship selection
 
 Screenshots with conditions you can see below
 
-# [Task №1]([task_1_url])
+# [Task №1][task_1_url]
 ![task_1]
-# [Task №2]([task_2_url])
+# [Task №2][task_2_url]
 ![task_2]
-# [Task №3]([task_3_url])
+# [Task №3][task_3_url]
 ![task_3]
-# [Task №4]([task_4_url]) (only thoughts, without code)
+# [Task №4][task_4_url] (only thoughts, without code)
 ![task_4]
-# [Task №5]([task_5_url])
+# [Task №5][task_5_url]
 ![task_5]
-# [Task №6]([task_6_url])
+# [Task №6][task_6_url]
 ![task_6]
 # Task №7 (didn't solve)
 ![task_7]
